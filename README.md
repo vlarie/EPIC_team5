@@ -20,7 +20,7 @@ How are property values influenced by different factors such as traffic, crime r
 * Zillow API
 * City of Austin Census Data
 * data.austintexas.gov data sets
-* Redfin API
+
 
 ### Rough Breakdown of Tasks:
 * Task management system setup on Trello
