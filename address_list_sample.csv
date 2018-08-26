@@ -1,0 +1,75 @@
+house #,street,zipcode,type,lat,lon,neighborhood
+7904,Barton Club Drive,78735,house,30.291968,-97.852151,NA
+9345,US Highway 290,78754,yes,30.328789,-97.6420199618697,Chimney Hills
+6550,West William Cannon Drive,78735,house,30.2393099539122,-97.8619814107644,Legend Oaks
+5104,Raton Pass,78724,yes,30.312713,-97.6590784469697,Northridge Park
+4017,Greystone Drive,78731,yes,30.3633565,-97.7627070161153,Mesa Forest
+8828,Research Boulevard,78757,yes,30.3675846,-97.7194690492224,Wooten
+7803,FM 1625,78744,house,30.1365838876672,-97.7052619134836,NA
+7201,Rain Creek Parkway,78759,yes,30.415588,-97.7732451736842,NA
+3201,Duval Road,78759-3504,yes,30.4092425,-97.7187060969141,North Star
+1417,Berkshire Drive,78723,yes,30.316552,-97.6961592194393,Windsor Park
+6105,Landscape Drive,78735,yes,30.247586,-97.8801961858974,West Oak Hill
+5500,Fort Benton Drive,78735,yes,30.257681,-97.8839630353986,West Oak Hill
+1403,Monica Street,78758,yes,30.388043,-97.6959366068145,Gracywoods
+5373,South MoPac Expressway,78749,house,30.2338740102041,-97.8264326734694,Williamson
+3008,Farm-to-Market Road 973,78725,house,30.244235,-97.620395,Garden Valley Village
+4701,Red Bluff Road,78723:78752,yes,30.2512655,-97.7036986526381,Govalle
+1811,Alameda Drive,78704,yes,30.2425555,-97.7444010797503,Travis Heights
+6928,Bay City Bend,78721,yes,30.259927,-97.6665120549133,Johnston Terrace
+NA,Gooding Drive,78719,yes,30.1740371,-97.6932279611407,NA
+2502,South 4th Street,78704,yes,30.2412435,-97.7642395160379,Galindo
+110,Bluff Park Circle,78746,yes,30.290849,-97.8184219661906,Ledgeway
+4901,China Garden Drive,78730,house,30.374818,-97.841514,River Place
+5894,McKinney Falls Parkway,78744,house,30.1821409568995,-97.7200445882827,Martinshore
+3107,East Cesar Chavez Street,78702,house,30.251605,-97.70976,Holly
+2102,Point Bluff Drive,78746,yes,30.2752485,-97.8336049426229,NA
+6401,Rusty Ridge Drive,78731,yes,30.3518125,-97.7689649909754,Northwest Hills
+5808,Wilcab Road,78721,house,30.273855,-97.675691,MLK-183
+9401,Capitol View Drive,78747,yes,30.1443255,-97.7464873475888,Thaxton Place
+1810,Woodland Avenue,78741,yes,30.237856,-97.7313560942857,East Riverside - Oltorf
+2327,Westoak Drive,78704,house,30.2444014677003,-97.7849043997707,South Lamar
+8013,Centre Park Drive,78753:78754,yes,30.3336135,-97.6778429393063,Berkley Square - Headway
+7401,Coldwater Mountain Court,78730,house,30.361602,-97.810465,Long Canyon
+507,West Lynn Street,78703,house,30.274478,-97.762661,Clarksville
+2106,Key West Cove,78746,yes,30.2766775,-97.8394144221268,NA
+5420,Petticoat Lane,78746,yes,30.31007,-97.8120672934783,Windsong Estates
+7933,Wheel Rim Circle,78749,yes,30.2184345,-97.8687265583161,Legend Oaks
+7656,Sandio Loop,78735,house,30.2763504014617,-97.8594447098415,NA
+4300,Staggerbrush Road,78749,house,30.233466,-97.831182,Williamson
+10108,Slaughter Creek Drive,78748,yes,30.165531,-97.8220005284091,Saddlewood Estates
+4603,Suburban Drive,78745,house,30.213703,-97.76718,East Congress
+9105,Curlew Drive,78748,yes,30.185885,-97.8304536817633,Pheasant Run
+2507,Glen Springs Way,78741,yes,30.230043,-97.7392599637128,Parker Lane
+504,Swanee Drive,78752,yes,30.3356265,-97.7148569048818,Highland
+8405,Valleyfield Drive,78724,yes,30.298981,-97.6245949841519,North Point
+6801,Circle South Road,78745,yes,30.1905975,-97.7777566489362,Sweetbriar
+9807,Middle Fiskville Road,78753,house,30.3611962,-97.6835663,Windsor Hills
+406,Graciosa Cove,78746,house,30.284611,-97.817318,Ledgeway
+7025,Lochinvar Street,78749,house,30.2131827565109,-97.8325302656623,West Branch
+3402,Misty Creek Drive,78735,yes,30.2850655,-97.8823614552148,NA
+4230,Mount Bonnell Road,78731,house,30.32452,-97.774332,Balcones Park
+7814,Hidden West Boulevard,78724,house,30.28797634,-97.63702558,Loma Vista
+508,Newhall Cove,78746,house,30.305115,-97.848084,NA
+1403,Foxwood Cove,78704,house,30.261822,-97.779248,Timberline Ridge
+1502,Garner Avenue,78704,yes,30.254973,-97.7690814850272,Zilker
+5600,East William Cannon Drive,78744,house,30.176554,-97.743598,Nuckols Crossing
+4628,City Park Road,78730,house,30.3636356456823,-97.8296353784639,Long Canyon
+2449,Pearce Road,78730,house,30.328781,-97.832148,NA
+2401,Holly Street,78702,house,30.250872,-97.719301,Holly
+2407,Shelby Oak Lane,78748,yes,30.18578,-97.8241307054455,Oakvalley Park
+1501,Crozier Lane,78617,house,30.225301,-97.660996,NA
+1500,East Riverside Drive,78741,yes,30.24706,-97.7320217786025,East Cesar Chavez
+4706,Imperial Drive,78725,house,30.265972,-97.626309,Imperial Valley
+7305,Ladybug Street,78744,house,30.1711734572173,-97.7497107309672,Nuckols Crossing
+6804,Mira Loma Lane,78723,house,30.320243,-97.684954,Coronado Hills
+3417,Mount Barker Drive,78731,yes,30.3254935,-97.771879003444,Balcones Park
+6643,Farm-to-Market Road 973,78724,house,30.2785150916031,-97.5981525725191,Imperial Valley
+7932,Burnet Road,78757,house,30.35746,-97.730672,North Shoal Creek
+3401,Far View Cove,78730,yes,30.355003,-97.852483031982,NA
+5305,Paradox Cove,78731,house,30.349075,-97.78718,Cat Mountain
+6500 1/2,Champion Grandview Way,78750,house,30.364561,-97.791143,North Cat Mountain
+2606,Monitor Drive,78745,yes,30.1932945,-97.822721,Shiloh
+11399,Loop 1,78759,house,30.400823,-97.729454,North Shoal Creek
+6101,Maurys Trail,78730,house,30.374958,-97.824428,Long Canyon
+6005,Valiant Circle,78749,yes,30.233381,-97.8500801119809,NA
