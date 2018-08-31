@@ -28,10 +28,13 @@ Please ensure one or more of these conditions is met before submitting a pull re
 ### Create branch using established naming conventions
 terminal method:
 - Create new branch
+
 `git branch <branch_name>`
 - Command to move between branches
+
 `git checkout <branch_name or master>`
 - Create and switch to branch in one line
+
 `git checkout -b <branch_name>`
 
 
@@ -44,6 +47,7 @@ Work on branch locally making commits often as code develops
 ### Push branch to GitHub
 terminal method:
 - Updates branch specified on GitHub
+
 `git push origin <branch_name>`
 
 
@@ -61,7 +65,7 @@ After branch work is complete and you want to merge to master, navigate to GitHu
 
 ### Merge to master
 - Valerie will receive a notification of pull request and review within 12 hours* 
-  -(*if there are extenuating circumstances preventing this, Valerie will communicate to individual submitting for review)
+  - (*if there are extenuating circumstances preventing this, Valerie will communicate to individual submitting for review)
 - If there are any changes to be made, Valerie will submit those back to the individual to be addressed within 12 hours if possible
 - If no changes need to be made, Valerie will merge branch to master
 	
@@ -70,12 +74,16 @@ After branch work is complete and you want to merge to master, navigate to GitHu
 ### Pull changes from master	
 - When branches are merged to master, team members should receive notification via email
 - Each person should then update their local repo to incorporate changes
+
 terminal method:	
-First navigate to relevant repo folder 
-If you have NOT made ANY changes locally whatsoever, use the following command
+- First navigate to relevant repo folder 
+  - If you have NOT made ANY changes locally whatsoever, use the following command
+
 `git pull origin master`
-If you have made commits on your local copy, using rebase will roll back your changes temporarily 
+  - If you have made commits on your local copy, using rebase will roll back your changes temporarily 
 to first update your local copy to match current remote, then replay your changes onto the end
-NOTE: You may have to review differences/merge conflicts with this method
+
 `git rebase origin/master`
+#### NOTE: You may have to review differences/merge conflicts with this method
+
 
