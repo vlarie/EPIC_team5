@@ -80,9 +80,11 @@ terminal method:
   - If you have NOT made ANY changes locally whatsoever, use the following command
 
 `git pull origin master`
+
   - If you have made commits on your local copy, using rebase will roll back your changes temporarily 
 to first update your local copy to match current remote, then replay your changes onto the end
 
+`git fetch`
 `git rebase origin/master`
 #### NOTE: You may have to review differences/merge conflicts with this method
 
