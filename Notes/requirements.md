@@ -11,11 +11,16 @@ that includes a Zillow API key https://www.zillow.com/howto/api/APIOverview.htm?
 * Zval
 * Zyuta
 
-pyzillow - https://github.com/hanneshapke/pyzillow
+#### Modules requiring pip install
+
+pyzillow - https://pypi.org/project/pyzillow/   https://github.com/hanneshapke/pyzillow
+
 `pip install pyzillow`
 
 gmplot - https://pypi.org/project/gmplot/
+
 `pip install gmplot`
 
 geopy - https://geopy.readthedocs.io/en/stable/#installation
+
 `pip install geopy`
