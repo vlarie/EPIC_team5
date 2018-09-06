@@ -17,9 +17,12 @@ We will analyze property values in the greater Austin area as they relate to pot
 How are property values influenced by different factors such as commute, crime rates, school districts, population density, availability of healthcare resources, variety of restaurant choices, dog ownership, etc.?
 
 ### Data Sets to be Used: 
-* Zillow API
-* City of Austin Census Data
-* data.austintexas.gov data sets
+* Zillow
+* OpenStreetMap
+* City of Austin Census
+* US Census Bureau
+* School Digger
+* Texas School Guide
 
 ### Rough Breakdown of Tasks:
 - [x] Define questions to ask
@@ -28,11 +31,11 @@ How are property values influenced by different factors such as commute, crime r
 - [x] Create documentation and setup files - Valerie
 - [x] Research different datasets - Troy, Seth, Kat, Yuta, Valerie
 - [x] Scheduling time for meetings
-- [ ] Exploration of data - Troy, Seth, Kat, Yuta, Valerie
-- [ ] Cleanup of data
-- [ ] Analysis of data
-- [ ] Create presentation with Google Slides - Kat point
-- [ ] Double check presentation requirements
-- [ ] Double check presentation guidelines
+- [x] Exploration of data - Troy, Seth, Kat, Yuta, Valerie
+- [x] Cleanup of data - Troy, Seth, Kat, Yuta, Valerie
+- [x] Analysis of data - Troy, Seth, Kat, Yuta, Valerie
+- [x] Create presentation with Google Slides - Kat & Valerie
+- [x] Double check presentation requirements - Valerie
+- [x] Double check presentation guidelines - Valerie
 
 

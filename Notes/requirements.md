@@ -3,7 +3,7 @@
 
 Please create a config.py file to run with this program that includes:
 - Zillow API key https://www.zillow.com/howto/api/APIOverview.htm?utm_source=email&utm_medium=email&utm_campaign=emo-apiregistration-api (limit 1000 calls/day)
-- Google API key
+- Google API key https://developers.google.com/maps/documentation/
 
 
 #### NOTE:  Team should create the following variables in config.py using info communicated internally regarding individual's Zillow API keys
@@ -12,6 +12,17 @@ Please create a config.py file to run with this program that includes:
 * Zkat
 * Zval
 * Zyuta
+
+#### Standard libraries/modules used
+* pandas
+* json
+* requests
+* pprint
+* sys
+* random
+* math
+* time
+
 
 #### Modules requiring pip install
 
