@@ -24,6 +24,11 @@ How are property values influenced by different factors such as commute, crime r
 * School Digger
 * Texas School Guide
 
+### Data Acquisition and Cleanup
+Started with 40,000 randomly generated coordinates with within a 20 mile radius of the Texas State Capital, then converted to physical addresses classified as residential homes (20,177)
+![Image of workflow](https://github.com/vlarie/EPIC_team5/blob/master/Presentation/dataDiagramCondensed.png)
+    
+
 ### Rough Breakdown of Tasks:
 - [x] Define questions to ask
 - [x] Task management system setup on Trello - Kat
