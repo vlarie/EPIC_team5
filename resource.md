@@ -30,6 +30,8 @@ Quick links to libraries, APIs, maps, and other data resources utilized in the c
 ## Mapping Utilities
 * Leaflet.heat - https://github.com/Leaflet/Leaflet.heat/blob/gh-pages/dist/leaflet-heat.js
   - not yet used, but may be useful
+* Leaflet Marker Clustering - https://leafletjs.com/plugins.html#clusteringdecluttering
+  - not yet used, but may be useful
 
 ## Datasets
 * City of Austin Census
