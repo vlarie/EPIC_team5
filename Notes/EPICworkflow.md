@@ -86,6 +86,7 @@ to first update your local copy to match current remote, then replay your change
 
 `git fetch`
 `git rebase origin/master`
+
 #### NOTE: You may have to review differences/merge conflicts with this method
 
 
